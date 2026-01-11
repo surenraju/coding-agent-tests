@@ -1,4 +1,4 @@
-from library_system import Library
+from library_management import Library
 
 def main():
     # Create a library instance
